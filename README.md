@@ -22,5 +22,5 @@ $ code .
 $ yarn or npm install
 
 # Run!
-$ yarn or npm start
+$ yarn start or npm start
 ```
