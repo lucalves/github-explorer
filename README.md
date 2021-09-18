@@ -18,7 +18,7 @@ $ cd github-explorer
 # Open the repository in the IDE (If you use VS Code)
 $ code .
 
-# Install dependencies
+# Open terminal and install the dependencies
 $ yarn or npm install
 
 # Run!
