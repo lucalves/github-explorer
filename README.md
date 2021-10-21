@@ -4,7 +4,7 @@ Github Explorer is a project developed during the course of Rocketseat.
 
 ## Screenshots
 
-<img src="screenshot.png">
+<img src=".github/screenshot.png">
 
 ## Install
 
