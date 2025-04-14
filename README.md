@@ -24,3 +24,7 @@ $ yarn or npm install
 # Run!
 $ yarn start or npm start
 ```
+
+## License
+
+MIT
